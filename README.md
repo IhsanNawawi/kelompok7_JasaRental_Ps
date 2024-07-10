@@ -1,5 +1,6 @@
-# Link ppt Kelompok Kami :
-![](https://www.canva.com/design/DAGKXFDkpeI/gvWyYyxM3Fi0Y6tYH6xD6w/edit)
+### Link PPT Kelompok Kami :
+[Klik Untuk Melihat PPT Kami](https://www.canva.com/design/DAGKXFDkpeI/gvWyYyxM3Fi0Y6tYH6xD6w/edit)
+
 # DB PlayStation
 ## Selamat Datang di DB PlayStation
 DB PlayStation Game adalah usaha yang menyediakan konsol PlayStation dan permainan untuk disewakan kepada pelanggan dan digunakan dalam jangka waktu tertentu dengan pembayaran sesuai dengan tarif yang telah di sediakan oleh penyedia jasa. Disini, kami memudahkan berbagai cara yang kami terjun langsung dalam wawancara yang dimana DB PlayStation itu terdapat kesulitan dalam pembayaran, pemesanan, dan laporan keuangan.
